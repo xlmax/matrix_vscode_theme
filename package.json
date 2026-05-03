@@ -1,0 +1,37 @@
+{
+  "name": "matrix-theme",
+  "displayName": "Matrix Theme",
+  "description": "A cyberpunk color theme inspired by The Matrix — green-on-black with amber accents for a immersive coding experience",
+  "version": "0.1.0",
+  "publisher": "matrix-theme",
+  "license": "MIT",
+  "icon": "icon.svg",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "matrix",
+    "cyberpunk",
+    "green",
+    "dark",
+    "theme",
+    "hacker",
+    "neon"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/matrix-vscode-theme"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Matrix Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/matrix-color-theme.json"
+      }
+    ]
+  }
+}
