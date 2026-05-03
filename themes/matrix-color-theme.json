@@ -1,4 +1,4 @@
-﻿{
+{
   "name": "Matrix Theme",
   "type": "dark",
   "colors": {
@@ -42,8 +42,8 @@
     "editorGutter.commentRangeForeground": "#6B8F6B",
     "editorLineNumber.foreground": "#3A5F3A",
     "editorLineNumber.activeForeground": "#66CC66",
-    "editorIndentGuide.background1": "#1A3A1A44",
-    "editorIndentGuide.activeBackground1": "#2A5F2A66",
+    "editorIndentGuide.background": "#1A3A1A44",
+    "editorIndentGuide.activeBackground": "#2A5F2A66",
     "editorWhitespace.foreground": "#1A3A1A88",
     "editorRuler.foreground": "#1A3A1A",
     "editorWidget.background": "#0A0D0A",
@@ -769,3 +769,4 @@
     "markup.changed": "#CC9933"
   }
 }
+
