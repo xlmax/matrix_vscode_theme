@@ -2,17 +2,13 @@
 
 > A cyberpunk color theme for Visual Studio Code inspired by **The Matrix** — green-on-black with amber accents for an immersive coding experience.
 
-## Preview
+## Screenshots
 
-```
-   ╔══════════════════════════════════════╗
-   ║   ███  ███  ███  █   █ ███ ███ ███  ║
-   ║   █ █  █    █    ██ ██ █   █ █ █ █  ║
-   ║   ███  ███  █    █ █ █ ███ ███ ███  ║
-   ║   █ █    █  █    █   █ █   █ █ █ █  ║
-   ║   ███  ███  ███  █   █ ███ █ █ ███  ║
-   ╚══════════════════════════════════════╝
-```
+![Editor preview](images/screenshot-editor.png)
+*Code editing with Matrix Theme — syntax highlighting in action*
+
+![Terminal preview](images/screenshot-terminal.png)
+*Integrated terminal with full ANSI color palette*
 
 ## Color Palette
 
